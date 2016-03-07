@@ -1,6 +1,3 @@
-
-style.css
-
 /* NAVBAR CSS BEGIN */
     .nav li {
       line-height: 40px;
@@ -11,7 +8,7 @@ style.css
     }
 
     /* Select all child links in a nav element */
-    .nav home {
+    .nav a {
       text-decoration: none;
     }
 
@@ -30,7 +27,7 @@ style.css
       max-width:800px;
     }
 
-    .navigation portfolio {
+    .navigation li {
       padding: 30px 15px;
       list-style: none;
       text-decoration: none;
@@ -38,12 +35,12 @@ style.css
       height: 20px;
     }
 
-    .navigation contact {
+    .navigation li a {
       text-decoration: none;
       color:#FFFFFF;
     }
 
-    .navigation home:hover {
+    .navigation li:hover {
       background-color: #F26101;
     }
     
