@@ -4,7 +4,7 @@
       padding:20px;
       list-style: none;
       display: inline-block;
-      background-color: white;
+      background-color: maroon;
     }
 
     /* Select all child links in a nav element */
@@ -13,7 +13,7 @@
     }
 
     .navbar-outside {green
-      display:block;
+      display: block;
       background-color: #313732;
       height:80px;
     }
